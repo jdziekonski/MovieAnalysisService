@@ -3,7 +3,6 @@ package jdziekonski.movieanalysisservice;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 public class Movie {
-
     private String title;
     private String director;
     private int positiveSentimentCounter;
@@ -67,7 +66,5 @@ public class Movie {
     public void recordNegativeSentimentReview()
     {
         this.negativeSentimentCounter++;
-    }
- 
-    
+    }   
 }
