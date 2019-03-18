@@ -1,2 +1,2 @@
 # MovieAnalysisService
-MovieAnalysisService - Java Rest App [Server]
+Movie reviews analysis application - Java Rest App [Server]
